@@ -45,6 +45,24 @@ Credentials:**
 
 **Password:** secret_sauce
 
+**Author**
+**Created by Neha Sharma**
+**LinkedIn:** https://www.linkedin.com/in/neha-sharma-0a0906148/
+**GitHub:** 
+
+**License**
+This project is open-source and free to use for learning and showcasing QA automation skills.
+
+
+---
+
+Would you like me to:
+1. **Push the full code with README to a GitHub repo for you?**  
+2. **Give you a `.git` command set to manually push to your GitHub?**
+
+If you'd like me to do it for you, just link your GitHub or give the repo name you want me to create it under.
+
+
 
 
 

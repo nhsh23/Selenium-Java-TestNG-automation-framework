@@ -64,6 +64,10 @@ Would you like me to:
 If you'd like me to do it for you, just link your GitHub or give the repo name you want me to create it under.
 
 
+Tags
+#Selenium #Java #Automation #TestNG #QAEngineer #PageObjectModel #WebDriverManager #OpenSource
+
+
 
 
 

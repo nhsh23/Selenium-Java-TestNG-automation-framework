@@ -1,0 +1,60 @@
+# 🚀 Selenium + Java Automation Framework
+
+[![Java](https://img.shields.io/badge/Language-Java-blue.svg)](https://www.java.com)
+[![Selenium](https://img.shields.io/badge/Framework-Selenium%20WebDriver-brightgreen)](https://www.selenium.dev)
+[![TestNG](https://img.shields.io/badge/Test-Framework-TestNG-orange)](https://testng.org/)
+[![Maven](https://img.shields.io/badge/Build-Maven-cc3c3c)](https://maven.apache.org/)
+
+This project is a fully functional **Selenium + Java Automation Framework**, built from scratch using best practices and the Page Object Model (POM) design pattern.
+
+> 📦 Ready to use! Download and run on your IDE in minutes.
+
+---
+
+## 📥 Download Framework
+
+👉 [Click here to download the ZIP file](https://chat.openai.com/sandbox:/mnt/data/selenium-java-framework.zip)  
+💡 After unzipping, import it into IntelliJ or Eclipse and run the test class.
+
+---
+
+## 💡 Features
+
+- 🔹 Selenium WebDriver with Java
+- 🔹 TestNG for test management
+- 🔹 Page Object Model (POM)
+- 🔹 WebDriverManager for effortless browser setup
+- 🔹 Simple Login Test for [saucedemo.com](https://www.saucedemo.com)
+
+---
+
+## 🏗️ Project Structure
+
+selenium-java-framework/ │ ├── base/ # WebDriver setup ├── pages/ # Page Object classes ├── tests/ # TestNG test classes ├── pom.xml # Maven dependencies ├── testng.xml # Test suite configuration └── README.md
+
+
+---
+
+## 🔍 Test Scenario
+
+```java
+@Test
+public void testValidLogin() {
+    LoginPage loginPage = new LoginPage(driver);
+    loginPage.login("standard_user", "secret_sauce");
+
+    HomePage homePage = new HomePage(driver);
+    Assert.assertEquals(homePage.getHeaderText(), "Products");
+}
+
+
+🖼️ Framework Architecture
+
+
+👨‍💻 Author
+Neha Sharma
+🔗 
+💻 
+
+🏷️ Tags
+#Selenium #Java #Automation #TestNG #QAEngineer #PageObjectModel #WebDriverManager #OpenSource

@@ -17,5 +17,40 @@ This is a lightweight and scalable **Selenium + Java + TestNG** automation frame
 ---
 
 ## Project Structure
+selenium-java-framework/ │ ├── src/ │ ├── main/java/ │ │ ├── base/ # Base test setup (browser config) │ │ ├── pages/ # Page classes (POM) │ └── test/java/ │ └── tests/ # TestNG test classes │ ├── pom.xml # Maven dependencies ├── testng.xml # TestNG suite runner └── README.md # Project documentation
+
+
+---
+
+## How to Run
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/your-username/selenium-java-framework.git
+   cd selenium-java-framework
+
+**2. Install dependencies:**
+
+mvn clean install
+
+**3. Run Tests:**
+
+mvn test
+
+**Demo Site Used
+Sauce Demo
+Credentials:**
+
+**Username:** standard_user
+
+**Password:** secret_sauce
+
+
+
+
+
+
+
+
 
 

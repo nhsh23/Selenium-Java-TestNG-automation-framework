@@ -45,10 +45,11 @@ Credentials:**
 
 **Password:** secret_sauce
 
-**Author** 
-**Created by Neha Sharma**
-**LinkedIn:** https://www.linkedin.com/in/neha-sharma-0a0906148/
-**GitHub:** https://github.com/nhsh23
+👨‍💻 Author
+Neha Sharma
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/neha-sharma-0a0906148/)
+💻 https://github.com/nhsh23 
+ 
 
 **License**
 This project is open-source and free to use for learning and showcasing QA automation skills.

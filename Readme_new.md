@@ -30,7 +30,22 @@ This project is a fully functional **Selenium + Java Automation Framework**, bui
 
 ## 🏗️ Project Structure
 
-selenium-java-framework/ │ ├── base/ # WebDriver setup ├── pages/ # Page Object classes ├── tests/ # TestNG test classes ├── pom.xml # Maven dependencies ├── testng.xml # Test suite configuration └── README.md
+selenium-java-framework/
+│
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── base/                 // WebDriver setup
+│   │       └── pages/                // Page classes (POM)
+│   │       └── utils/                // Utility classes
+│   │       └── config/               // Configuration loader
+│   └── test/
+│       └── java/
+│           └── tests/               // TestNG test classes
+│
+├── testng.xml
+├── pom.xml
+└── README.md / Readme_new.md
 
 
 ---

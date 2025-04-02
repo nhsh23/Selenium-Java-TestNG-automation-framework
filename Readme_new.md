@@ -83,11 +83,13 @@ Utilities: WebDriverManager
 ---
 
 ## 👨‍💻 Author
-Neha Sharma
-🔗 LinkedIn Profile 
-💻 GitHub
 
----
+Neha Sharma
+    
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/neha-sharma-0a0906148/)
+    
+💻 https://github.com/nhsh23 
+    
 
 ## 🏷️ Tags
 #Selenium #Java #Automation #TestNG #QAEngineer #PageObjectModel #WebDriverManager #OpenSource

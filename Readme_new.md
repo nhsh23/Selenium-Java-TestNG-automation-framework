@@ -62,8 +62,8 @@ public void testValidLogin() {
     Assert.assertEquals(homePage.getHeaderText(), "Products");
 }
 
-
-**## 🖼️ Framework Architecture**
+---
+    **## 🖼️ Framework Architecture**
 Language: Java
 Automation Tool: Selenium WebDriver
 Build Tool: Maven
@@ -81,3 +81,5 @@ Neha Sharma
 
 **## 🏷️ Tags**
 #Selenium #Java #Automation #TestNG #QAEngineer #PageObjectModel #WebDriverManager #OpenSource
+
+

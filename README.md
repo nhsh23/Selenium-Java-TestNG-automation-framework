@@ -57,12 +57,6 @@ This project is open-source and free to use for learning and showcasing QA autom
 
 ---
 
-Would you like me to:
-1. **Push the full code with README to a GitHub repo for you?**  
-2. **Give you a `.git` command set to manually push to your GitHub?**
-
-If you'd like me to do it for you, just link your GitHub or give the repo name you want me to create it under.
-
 
 Tags
 #Selenium #Java #Automation #TestNG #QAEngineer #PageObjectModel #WebDriverManager #OpenSource

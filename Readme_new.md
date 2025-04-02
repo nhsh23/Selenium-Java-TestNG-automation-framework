@@ -13,7 +13,7 @@ This project is a fully functional **Selenium + Java Automation Framework**, bui
 
 ## 📥 Download Framework
 
-👉 [Click here to download the ZIP file](https://chat.openai.com/sandbox:/mnt/data/selenium-java-framework.zip)  
+👉 
 💡 After unzipping, import it into IntelliJ or Eclipse and run the test class.
 
 ---

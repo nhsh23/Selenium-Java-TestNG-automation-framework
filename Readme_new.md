@@ -60,9 +60,10 @@ public void testValidLogin() {
     HomePage homePage = new HomePage(driver);
     Assert.assertEquals(homePage.getHeaderText(), "Products");
 }
+```
+---
 
-
-🖼️ Framework Architecture
+## 🖼️ Framework Architecture
 Language: Java
 
 Automation Tool: Selenium WebDriver
@@ -79,10 +80,14 @@ Reporting: ExtentReports
 
 Utilities: WebDriverManager
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 Neha Sharma
-🔗 LinkedIn Profile
+🔗 LinkedIn Profile 
 💻 GitHub
 
-🏷️ Tags
+---
+
+## 🏷️ Tags
 #Selenium #Java #Automation #TestNG #QAEngineer #PageObjectModel #WebDriverManager #OpenSource

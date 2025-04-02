@@ -45,20 +45,20 @@ Credentials:**
 
 **Password:** secret_sauce
 
-👨‍💻 Author
-Neha Sharma
+## 👨‍💻 Author
+     Neha Sharma
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/neha-sharma-0a0906148/)
 💻 https://github.com/nhsh23 
  
 
-**License**
+## **License**
 This project is open-source and free to use for learning and showcasing QA automation skills.
 
 
 ---
 
 
-Tags
+## Tags
 #Selenium #Java #Automation #TestNG #QAEngineer #PageObjectModel #WebDriverManager #OpenSource
 
 

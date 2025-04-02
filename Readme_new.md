@@ -51,7 +51,6 @@ selenium-java-framework/
 ---
 
 ## 🔍 Test Scenario
-
 ```java
 @Test
 public void testValidLogin() {
@@ -62,24 +61,28 @@ public void testValidLogin() {
     Assert.assertEquals(homePage.getHeaderText(), "Products");
 }
 
----
-    **## 🖼️ Framework Architecture**
+
+🖼️ Framework Architecture
 Language: Java
+
 Automation Tool: Selenium WebDriver
+
 Build Tool: Maven
+
 Test Framework: TestNG
+
 Design Pattern: Page Object Model (POM)
+
 Logging: Log4j
+
 Reporting: ExtentReports
+
 Utilities: WebDriverManager
 
-
-**## 👨‍💻 Author**
+👨‍💻 Author
 Neha Sharma
-🔗 LinkedIn Profile https://www.linkedin.com/in/neha-sharma-0a0906148/  
-💻 https://github.com/nhsh23
+🔗 LinkedIn Profile
+💻 GitHub
 
-**## 🏷️ Tags**
+🏷️ Tags
 #Selenium #Java #Automation #TestNG #QAEngineer #PageObjectModel #WebDriverManager #OpenSource
-
-
